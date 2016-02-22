@@ -15,7 +15,7 @@ namespace PalashChakma_eTaskr
         private const string APIKEY = "45129e9b4979716858592bdd54265f5b";
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+            //dummy
         }
 
         public static void GetWeatherReport(string lat,string lng)
